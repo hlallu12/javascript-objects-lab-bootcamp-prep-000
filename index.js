@@ -1,5 +1,9 @@
 var recipes = {};
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  return recipes;
+  console.log(object);
+    console.log(key);
+      console.log(vlaue);
+
+
 }
